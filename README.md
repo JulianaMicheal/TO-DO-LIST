@@ -22,4 +22,4 @@ This is a simple web application to save Your daily tasks in order not to miss a
 
 ## Live Site
 
-To view the TODO list App, Visit the TODO list site [TODO LIST APP](https://my-chabot.onrender.com) on your device
+To view the TODO list App, Visit the TODO list site [TODO LIST APP](https://TO-DO-LIST.julianamicheal.repl.co) on your device
