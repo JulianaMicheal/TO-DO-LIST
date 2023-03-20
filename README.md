@@ -1,7 +1,5 @@
 # Todo-List-App History
 
-A Todo List App in HTML, CSS and JavaScript.
-
 This is a simple web application to save Your daily tasks in order not to miss anything.
 
 ## Features-
